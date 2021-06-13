@@ -15,5 +15,5 @@ ___________
 2. Create an image locallly
    docker image build -t urlshorten-backend .   
 3. Run the image in local
-   docker container run -p 3000:3000 urlshorten-backend    
+   docker container run -p 8080:8080 urlshorten-backend    
 
